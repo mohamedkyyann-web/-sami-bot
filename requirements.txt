@@ -1,1 +1,5 @@
-pyTelegramBotAPI
+python-telegram-bot
+Flask
+groq
+Pillow
+requests
