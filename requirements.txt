@@ -3,3 +3,4 @@ Flask
 groq
 Pillow
 requests
+gunicorn
